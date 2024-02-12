@@ -27,9 +27,7 @@ export default function ListsPage() {
                 <div className="grid grid-cols-1">
                     <>
                         {
-                            <div
-                                className='grid grid-cols-4 gap-4'
-                            >
+                            <div className='grid grid-cols-4 gap-4'>
                                 {data?.map((user) => (
                                     <div
                                         className='flex flex-col justify-center items-center text-center border-2'
