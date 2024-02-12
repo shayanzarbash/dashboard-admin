@@ -1,2 +1,6 @@
-# TailAdmin Next.js - Free Next.js Tailwind Admin Dashboard Template
+# Dashboard Admin Next.js - Next.js Tailwind Admin Dashboard Template
+
+# npm install
+
+# npm run dev
 
